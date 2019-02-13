@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Cicero v1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-11 08:45+0100\n"
+"PO-Revision-Date: 2016-03-31 13:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh-cicero
+#: comments.php:7
+msgid "No Comments, Be The First!"
+msgstr "Inga kommentarer, bli den första!"
+
+# @ mh-cicero
+#: comments.php:7
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+# @ mh-cicero
+#: comments.php:7
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+# @ mh-cicero
+#: comments.php:15 includes/mh-custom-functions.php:131
+#: includes/mh-custom-functions.php:148
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh-cicero
+#: comments.php:15 includes/mh-custom-functions.php:132
+#: includes/mh-custom-functions.php:148
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ mh-cicero
+#: comments.php:19
+msgid "Comments are closed."
+msgstr "Kommentarerna är stängda."
+
+# @ mh-cicero
+#: comments.php:31
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Lämna en kommentar till %s"
+
+# @ mh-cicero
+#: comments.php:32
+msgid "Your email address will not be published."
+msgstr "Din e-postadress kommer inte att publiceras."
+
+# @ mh-cicero
+#: comments.php:35
+msgid "Send Comment"
+msgstr "Skicka Kommentar"
+
+# @ mh-cicero
+#: comments.php:36
+msgid "Enter Message Here"
+msgstr "Skriv ditt meddelande här"
+
+# @ mh-cicero
+#: comments.php:38
+msgid "Enter Name"
+msgstr "Ange namn"
+
+# @ mh-cicero
+#: comments.php:39
+msgid "Enter Email"
+msgstr "Ange e-post"
+
+# @ mh-cicero
+#: comments.php:40
+msgid "Enter URL"
+msgstr "Ange webbadress"
+
+# @ mh-cicero
+#: content-none.php:4
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Tyvärr hittades inte det du sökte på. Prova med andra ord."
+
+# @ mh-cicero
+#: content-none.php:6
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi verkar inte kunna hitta det du letar efter. Prova att söka?"
+
+# @ mh-cicero
+#: content-related.php:11 includes/mh-options.php:65
+msgid "Related Articles"
+msgstr "Relaterade artiklar"
+
+# @ mh-cicero
+#: functions.php:40
+msgid "Main Navigation"
+msgstr "Huvudnavigation"
+
+# @ mh-cicero
+#: functions.php:41
+msgid "Social Icons in Footer"
+msgstr "Sociala ikoner i sidfoten"
+
+# @ mh-cicero
+#: functions.php:101 includes/mh-options.php:60
+msgid "Sidebar"
+msgstr "Sidokolumn"
+
+# @ mh-cicero
+#: functions.php:101
+msgid "Sidebar on Posts/Pages."
+msgstr "Sidokolumn för inlägg/sidor."
+
+# @ mh-cicero
+#: functions.php:102
+msgid "Contact"
+msgstr "Kontakt"
+
+# @ mh-cicero
+#: functions.php:102
+msgid "Sidebar on Contact Page Template."
+msgstr "Sidokolumn på Kontakt-sidomallen."
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:17
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr "Artiklar skrivna av %s"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:29 page-sitemap.php:24
+msgid "Archives"
+msgstr "Arkiv"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:35
+msgid "Page not found (404)"
+msgstr "Sidan kunde inte hittas (404)"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:37
+#, php-format
+msgid "Search Results for %s"
+msgstr "Sökresultat för %s"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:65
+#, php-format
+msgctxt "comments number"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 kommentar"
+msgstr[1] "%1$s kommentarer"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:180
+msgid "Back to post"
+msgstr "Tillbaka till blogginlägget"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:182
+msgid "Previous image"
+msgstr "Föregående bild"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:185
+msgid "Previous post"
+msgstr "Föregående inlägg"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:190
+msgid "Next image"
+msgstr "Nästa bild"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:192
+msgid "Next post"
+msgstr "Nästa inlägg"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:211
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s på %2$s"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:212
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:215
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:231
+msgid "Featured Content"
+msgstr "Puffat innehåll"
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:232
+#, php-format
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "Använd en <a href=\"%1$s\">tagg</a> för att puffa innehåll. Om inga inlägg har den taggen kommer <a href=\"%2$s\">sticky posts</a> att visas istället."
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:233 includes/mh-featured-content.php:243
+#: includes/mh-featured-content.php:282
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "puff"
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:256
+msgid "Tag Name"
+msgstr "Taggnamn"
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:261
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Visa inte taggen på framsidan."
+
+# @ mh-cicero
+#: includes/mh-options.php:19
+msgid "Theme Options"
+msgstr "Temainställningar"
+
+# @ mh-cicero
+#: includes/mh-options.php:23
+msgid "General"
+msgstr "Generellt"
+
+# @ mh-cicero
+#: includes/mh-options.php:24
+msgid "Layout"
+msgstr "Layout"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:93
+msgid "Typography"
+msgstr "Typografi"
+
+# @ mh-cicero
+#: includes/mh-options.php:25
+msgid "Custom CSS"
+msgstr "Egen CSS"
+
+# @ mh-cicero
+#: includes/mh-options.php:26
+msgid "Tracking Code"
+msgstr "Spårningskod"
+
+# @ mh-cicero
+#: includes/mh-options.php:31 includes/mh-options.php:135
+msgid "Read More"
+msgstr "Läs mer"
+
+# @ mh-cicero
+#: includes/mh-options.php:56
+msgid "Custom Excerpt Length in Words"
+msgstr "Utkastlängd (antal ord)"
+
+# @ mh-cicero
+#: includes/mh-options.php:57
+msgid "Custom Excerpt More-Text"
+msgstr "Egen \"Läs mer\"-text"
+
+# @ mh-cicero
+#: includes/mh-options.php:58
+msgid "Copyright Text"
+msgstr "Copyright-text"
+
+# @ mh-cicero
+#: includes/mh-options.php:60 includes/mh-options.php:109
+msgid "Right Sidebar"
+msgstr "Höger sidokolumn"
+
+# @ mh-cicero
+#: includes/mh-options.php:60 includes/mh-options.php:110
+msgid "Left Sidebar"
+msgstr "Vänster sidokolumn"
+
+# @ mh-cicero
+#: includes/mh-options.php:61
+msgid "Featured Image on Posts"
+msgstr "Puffade bilder på inlägg"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:107 includes/mh-options.php:61
+#: includes/mh-options.php:62 includes/mh-options.php:63
+#: includes/mh-options.php:64 includes/mh-options.php:65
+#: includes/mh-options.php:107 includes/widgets/mh-authors.php:141
+#: includes/widgets/mh-comments.php:83
+msgid "Enable"
+msgstr "Aktivera"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:107 includes/mh-options.php:61
+#: includes/mh-options.php:62 includes/mh-options.php:63
+#: includes/mh-options.php:64 includes/mh-options.php:65
+#: includes/mh-options.php:108 includes/widgets/mh-authors.php:142
+#: includes/widgets/mh-comments.php:84
+msgid "Disable"
+msgstr "Avaktivera"
+
+# @ mh-cicero
+#: includes/mh-options.php:62
+msgid "Sharing Icons"
+msgstr "Delningsikoner"
+
+# @ mh-cicero
+#: includes/mh-options.php:63
+msgid "Post/Attachment Navigation"
+msgstr "Inläggs-/bilagenavigation"
+
+# @ mh-cicero
+#: includes/mh-options.php:64
+msgid "Author Box"
+msgstr "Författarbox"
+
+# @ mh-cicero
+#: includes/mh-options.php:66
+msgid "Disable Post Meta Data"
+msgstr "Avaktivera metadata för inlägg"
+
+# @ mh-cicero
+#: includes/mh-options.php:67
+msgid "Disable Date"
+msgstr "Inaktivera datum"
+
+# @ mh-cicero
+#: includes/mh-options.php:68
+msgid "Disable Categories"
+msgstr "Avaktivera kategorier"
+
+# @ mh-cicero
+#: includes/mh-options.php:69
+msgid "Disable Comments"
+msgstr "Inaktivera Kommentarer"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:106
+msgid "Change default Font Size (px)"
+msgstr "Ändra teckenstorlek (px)"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:107
+msgid "Google Webfonts"
+msgstr "Google Webbtypsnitt"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:108
+msgid "Google Webfonts Characters"
+msgstr "Google Webfonts tecken"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:12
+msgid "Latin"
+msgstr "Latin"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:13
+msgid "Latin Extended"
+msgstr "Latin utökad"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:9
+msgid "Greek"
+msgstr "Grekiska"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:10
+msgid "Greek Extended"
+msgstr "Grekiska utökad"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:7
+msgid "Cyrillic"
+msgstr "Kyrilliska"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:8
+msgid "Cyrillic Extended"
+msgstr "Kyrilliska utökad"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:109
+msgid "Google Webfont for Headings"
+msgstr "Google Webfont för rubriker"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:110
+msgid "Google Webfont for Body Text"
+msgstr "Google Webfont för brödtext"
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:111
+msgid "Imported Google Font Styles"
+msgstr "Importerade Google teckenstilar"
+
+# @ mh-cicero
+#: includes/mh-options.php:71
+msgid "Add your custom CSS code here:"
+msgstr "Lägg till din egen CSS-kod här:"
+
+# @ mh-cicero
+#: includes/mh-options.php:72
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr "Spårningskod (t.ex. Google Analytics)"
+
+# @ mh-cicero
+#: includes/mh-options.php:74 includes/mh-options.php:75
+#, php-format
+msgctxt "options panel"
+msgid "Theme Color %d"
+msgstr "Temafärg %d"
+
+# @ mh-cicero
+#: includes/mh-options.php:77
+msgid "Hide Featured Content"
+msgstr "Göm puffat innehåll"
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:11
+msgid "MH Author Bio widget to display author avatar and biographical info."
+msgstr "MH Författarinfo-widget för att visa författarens avatar och presentation."
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:48
+msgid "About me"
+msgstr "Om mig"
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:51 includes/widgets/mh-authors.php:102
+#: includes/widgets/mh-comments.php:69 includes/widgets/mh-custom-posts.php:149
+#: includes/widgets/mh-facebook-page.php:50 includes/widgets/mh-youtube.php:56
+msgid "Title:"
+msgstr "Titel:"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:11
+msgid "MH Authors widget to display a list of authors including the number of published posts."
+msgstr "MH Författar-widget för att visa alla författare inkl. antal inlägg."
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:46 includes/widgets/mh-authors.php:52
+#, php-format
+msgid "Articles by %s"
+msgstr "Artiklar av %s"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:56
+#, php-format
+msgctxt "author post count"
+msgid "published %d articles"
+msgstr "publicerade %d artiklar"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:62
+msgid "No authors found"
+msgstr "Inga författare hittades"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:99
+msgid "Authors"
+msgstr "Forfattere"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:106
+msgid "Limit Author Number:"
+msgstr "Begränsa författarnummer:"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:110
+msgid "Skip Authors (Offset):"
+msgstr "Hoppa över författare (Offset):"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:114
+msgid "User Role:"
+msgstr "Användarroll"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:116
+msgid "All Users"
+msgstr "Alla Användare"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:117
+msgid "Administrator"
+msgstr "Administratör"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:118
+msgid "Editor"
+msgstr "Redaktör"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:119
+msgid "Author"
+msgstr "Författare"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:120
+msgid "Contributor"
+msgstr "Medarbetare"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:121
+msgid "Subscriber"
+msgstr "Prenumerant"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:125
+msgid "Order Authors by:"
+msgstr "Sortera författare efter:"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:127
+msgid "Number of Posts"
+msgstr "Antal inlägg"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:128
+msgid "User Name"
+msgstr "Användarnamn"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:132
+msgid "Order:"
+msgstr "Ordning"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:134
+msgid "Ascending"
+msgstr "Stigande"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:135
+msgid "Descending"
+msgstr "Fallande"
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:139 includes/widgets/mh-comments.php:81
+msgid "Author Avatar:"
+msgstr "Författarens avatar/visningsbild:"
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:11
+msgid "MH Recent Comments widget to display your recent comments including user avatars."
+msgstr "MH Senaste kommentarerna-widget för att visa senaste kommentarer inkl. användarens avatar."
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:37
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr "%1$s på %2$s"
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:66
+msgid "Recent Comments"
+msgstr "Senaste kommentarer"
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:73
+msgid "Limit Comment Number:"
+msgstr "Begränsa antal kommentarer:"
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:77
+msgid "Skip Comments (Offset):"
+msgstr "Hoppa över kommentarer (offset):"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:11
+msgid "MH Custom Posts Widget to display posts based on categories or tags."
+msgstr "MH Custom Posts Widget för att visa inlägg från en kategori eller tagg."
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:157
+msgid "Select a Category:"
+msgstr "Välj kategori:"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:159
+msgid "All"
+msgstr "Alla"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:168
+msgid "Multiple Categories Filter by ID:"
+msgstr "Flera kategorier filtrerat på ID:"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:172
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr "Filtrera inlägg på tagg (t.ex. lifestyle):"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:184
+msgid "Post Order:"
+msgstr "Inläggsordning:"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:186
+msgid "Latest Posts"
+msgstr "Senaste inläggen"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:187
+msgid "Random Posts"
+msgstr "Slumpmässiga inlägg"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:188
+msgid "Popular Posts"
+msgstr "Populära inlägg"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:153 includes/widgets/mh-youtube.php:60
+msgid "Link Title to custom URL (optional):"
+msgstr "Länka titeln till en egen URL (valfri):"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:197
+msgid "Ignore Sticky Posts"
+msgstr "Ignorera Sticky inlägg"
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:193
+msgid "Hide Date"
+msgstr "Göm Datum"
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:16
+#: includes/widgets/mh-facebook-page.php:46
+msgid "Follow on Facebook"
+msgstr "Följ oss på Facebook"
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:54
+msgid "Facebook Page URL:"
+msgstr "Facebook-sidans URL:"
+
+# @ mh-cicero
+#: page-sitemap.php:9
+msgid "Recent Articles"
+msgstr "Senaste artiklarna"
+
+# @ mh-cicero
+#: page-sitemap.php:17
+msgid "Pages"
+msgstr "Sidor"
+
+# @ mh-cicero
+#: page-sitemap.php:30
+msgid "Categories"
+msgstr "Kategorier"
+
+# @ mh-cicero
+#: page-sitemap.php:32
+msgid "No categories"
+msgstr "Inga Kategorier"
+
+# @ mh-cicero
+#: template-authorbox.php:12
+#, php-format
+msgid "About %s"
+msgstr "Om %s"
+
+# @ mh-cicero
+#: template-featured.php:7
+msgid "There is no featured content, please tag posts with the tag that you have set in your WordPress dashboard under \"Appearance => Customize => Featured Content\"."
+msgstr "Det finns inget puffat innehåll. Tagga något inlägg med den tagg du har ställt in i WordPress kontrollpanel under Utseende => Anpassa => Puffat innehåll (Featured Content)."
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:8
+msgctxt "widget name"
+msgid "MH Author Bio"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:8
+msgctxt "widget name"
+msgid "MH Recent Comments"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:8
+msgctxt "widget name"
+msgid "MH Facebook Page"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:11
+msgid "Widget to display your Facebook page on your website."
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:58
+msgid "Width (min. 280px):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:62
+msgid "Height (min. 130px):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:67
+msgid "Hide cover photo"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:71
+msgid "Show profile photos"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:75
+msgid "Show posts from FB page"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:8
+msgctxt "widget name"
+msgid "MH YouTube Video"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:11
+msgid "Widget to display a YouTube Video."
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:6
+msgid "Arabic"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:11
+msgid "Hebrew"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:14
+msgid "Vietnamese"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:55
+msgid "Select User:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:8
+msgctxt "widget name"
+msgid "MH Authors"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:165
+msgid "Select a category to display posts from."
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:176
+msgid "Post Count (max. 50):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:180
+msgid "Skip Posts (max. 50):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:64
+msgid "Video ID:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:66
+msgid "Enter the YouTube video ID - also known as the watch code, example: AvOTBFM_3RQ)"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:70
+msgid "Enable Autoplay"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:74
+msgid "Display Video Title / Information"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:78
+msgid "Display Player Controls"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:82
+msgid "Recommend Related Videos"
+msgstr ""

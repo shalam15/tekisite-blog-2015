@@ -1,0 +1,73 @@
+/***** Stylesheet to support RTL languages *****/
+
+body { direction: rtl; unicode-bidi: embed; }
+.mh-sidebar, .hp-sidebar { float: right; }
+.sb-right { margin-right: 20px; margin-left: 0; }
+.sb-left { margin-left: 20px; margin-right: 0; }
+.left { float: right; }
+.right { float: left; }
+[class*='col-'] { float: right; margin-right: 2.04%; margin-left: 0; }
+blockquote { border-right: 3px solid #30719d; border-left: none; }
+.entry ul, .commentlist ul, .entry ol, .commentlist ol { margin: 0px 40px 20px 0px; margin: 0rem 2.5rem 1.25rem 0rem; }
+.entry ul ul, .commentlist ul ul, .entry ol ol, .commentlist ol ol { margin: 0px 40px 0px 0px; margin: 0rem 2.5rem 0rem 0rem; }
+dl { margin: 0px 20px 10px 0px; margin: 0rem 1.25rem 0.625rem 0rem; }
+dd { margin-right: 20px; margin-right: 1.25rem; margin-left: 0; }
+.logo-overlay { left: 0; right: auto; text-align: left; }
+.logo-overlay .logo-desc { text-align: left; }
+.main-nav li { float: right; }
+.main-nav ul ul ul { right: 100%; left: auto; }
+.slicknav_btn { float: left; }
+.slicknav_menu .slicknav_menutxt { float: right; }
+.slicknav_menu .slicknav_icon { float: right; margin: 0.188rem 0.438rem 0 0; }
+.slicknav_nav .slicknav_arrow { margin: 0 0.4rem 0 0; }
+.slicknav_nav ul { padding: 20px 15px 0 0; }
+.slicknav_nav ul ul { padding: 0 15px 0 0; }
+.slicknav_nav .slicknav_txtnode { margin-right: 15px; margin-left: 0; }
+.flex-viewport { direction: ltr; }
+.flex-control-nav { left: 0; right: auto; }
+.slide-caption { right: 20px; left: auto; }
+.content-ad { float: right; margin: 0px 0px 10px 20px; margin: 0 0 0.625rem 1.25rem; }
+.post-tags li { float: right; margin: 0px 0px 6px 6px; margin: 0 0 0.375rem 0.375rem; }
+.author-box-avatar { float: right; margin-left: 10px; margin-right: 0; }
+.related-thumb { float: right; margin-left: 15px; margin-left: 0.9375rem; margin-right: 0; }
+.sitemap .children { margin: 0 16px 0 0; margin: 0 1rem 0 0; }
+.alignleft { float: right; margin: 5px 0 20px 20px; margin: 0.3125rem 0 1.25rem 1.25rem; }
+.alignright { float: left; margin: 5px 20px 20px 0; margin: 0.3125rem 1.25rem 1.25rem 0; }
+.gallery-item { float: right; margin: 0 0 4px 4px; }
+.gallery-columns-1 .gallery-item:nth-of-type(1n), .gallery-columns-2 .gallery-item:nth-of-type(2n), .gallery-columns-3 .gallery-item:nth-of-type(3n), .gallery-columns-4 .gallery-item:nth-of-type(4n), .gallery-columns-5 .gallery-item:nth-of-type(5n), .gallery-columns-6 .gallery-item:nth-of-type(6n), .gallery-columns-7 .gallery-item:nth-of-type(7n), .gallery-columns-8 .gallery-item:nth-of-type(8n), .gallery-columns-9 .gallery-item:nth-of-type(9n) { margin-left: 0; }
+.gallery-columns-1.gallery-size-medium figure.gallery-item:nth-of-type(1n+1), .gallery-columns-1.gallery-size-thumbnail figure.gallery-item:nth-of-type(1n+1), .gallery-columns-2.gallery-size-thumbnail figure.gallery-item:nth-of-type(2n+1), .gallery-columns-3.gallery-size-thumbnail figure.gallery-item:nth-of-type(3n+1) { clear: right; }
+.gallery-caption { right: 0; left: auto; text-align: right; }
+.gallery-caption:before { right: 0; left: auto; }
+.cp-thumb, .uw-avatar { float: right; margin-left: 10px; margin-left: 0.625rem; margin-right: 0; }
+.home-wide .cp-thumb-xl { float: right; margin: 0 0 0 20px; margin: 0 0 0 1.25rem; }
+.sb-widget .mh-social-widget { padding: 20px 20px 12px 12px; }
+.mh-social-widget li { float: right; margin: 0 0 8px 8px; }
+.nip-thumb { float: right; margin: 0 0 2px 2px }
+.sb-widget .sub-menu .menu-item { margin: 0 16px 0 0; margin: 0 1rem 0 0; }
+#wp-calendar caption { text-align: right; }
+#wp-calendar #prev { text-align: right; }
+.textwidget ul, .textwidget ol { margin: 0 15px 20px 0; }
+.textwidget ul ul, .textwidget ol ol { margin: 0 15px 0 0; }
+.commentlist .comment .avatar { margin-left: 6px; margin-left: 0.375rem; margin-right: 0; }
+.commentlist .bypostauthor .vcard { border-right: 3px solid #30719d; border-left: 0; }
+.commentlist .bypostauthor .avatar { margin-right: 6px; margin-right: 0.375rem; margin-left: 0; }
+.share-button { float: right; }
+.dropcap { margin-left: 6px; margin-left: 0.375rem; margin-right: 0; float: right; }
+.box ul, .box ol { margin: 0 20px 20px 0; margin: 0 1.25rem 1.25rem 0; }
+.hide-box { left: 8px; right: auto; }
+.testimonial {padding: 10px 60px 10px 10px; padding: 0.625rem 3.75rem 0.625rem 0.625rem; }
+.testimonial:before { right: 10px; left: auto; }
+.flex-vid iframe { right: 0; left: auto; }
+
+/***** Media Queries *****/
+
+@media screen and (max-width: 767px) {
+	.hp-content, .mh-content, .hp-sidebar, .mh-sidebar, .mq-footer { width: 100%; margin: 0; }
+	.mh-sidebar { margin-top: 20px; margin-top: 1.25rem; }
+	.slide-caption { right: 0px; left: auto; }
+	.cp-thumb-xl { float: right; margin: 0 0 0 20px; margin: 0 0 0 1.25rem; }
+}
+@media screen and (max-width: 680px) {
+	.logo-overlay, .logo-overlay .logo-desc { text-align: center; }
+	.cp-thumb-xl, .home-wide .cp-thumb-xl { margin-bottom: 10px; margin-bottom: 0.625rem; }
+}

@@ -1,0 +1,1180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Squared v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-04-02 20:01+0200\n"
+"Last-Translator: michael <info@mhthemes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh-squared
+#: admin/admin.php:7
+msgid "Welcome to MH Squared"
+msgstr "Willkommen zu MH Squared"
+
+# @ mh-squared
+#: admin/admin.php:7
+msgid "Theme Info"
+msgstr "Theme Info"
+
+# @ mh-squared
+#: admin/admin.php:16
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr "Willkommen zu %1s %2s"
+
+# @ mh-squared
+#: admin/admin.php:20
+msgid "Important Links:"
+msgstr "Wichtige Links:"
+
+# @ mh-squared
+#: admin/admin.php:21
+msgid "Theme Info Page"
+msgstr "Theme Info Seite"
+
+# @ mh-squared
+#: admin/admin.php:22
+msgid "Support Center"
+msgstr "Support Center"
+
+# @ mh-squared
+#: admin/admin.php:23
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ mh-squared
+#: admin/admin.php:24
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ mh-squared
+#: admin/admin.php:25
+msgid "YouTube"
+msgstr "YouTube"
+
+# @ mh-squared
+#: admin/admin.php:30
+#, php-format
+msgid "Getting Started with %s"
+msgstr "Erste Schritte mit %s"
+
+# @ mh-squared
+#: admin/admin.php:34
+msgid "Theme Documentation"
+msgstr "Theme Dokumentation"
+
+# @ mh-squared
+#: admin/admin.php:35
+#, php-format
+msgid "Need support to setup and configure %s? Please have a look at the instructions in the theme documentation or register at our support forums when you click on \"Support\" in your MH Themes account."
+msgstr "Ben&ouml;tigen Sie Hilfe beim Setup und der Konfiguration von %s? Bitte lesen Sie sich die Theme Dokumentation durch oder registrieren Sie sich in unserem Support Forum: Klicken Sie auf \"Support\" in Ihrem MH Themes Account."
+
+# @ mh-squared
+#: admin/admin.php:37
+msgid "Visit Documentation"
+msgstr "Besuchen Sie die Dokumentation"
+
+# @ mh-squared
+#: admin/admin.php:41 includes/mh-options.php:15
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+# @ mh-squared
+#: admin/admin.php:42
+#, php-format
+msgid "%s WordPress theme supports the Theme Customizer for all theme settings. Click \"Customize Theme\" to open the Customizer now."
+msgstr "%s WordPress Theme unterst&uuml;tzt den Theme Customizer f&uuml;r alle Theme Einstellungen. Klicken Sie auf \"Theme anpassen\" um den Customizer jetzt zu &ouml;ffnen."
+
+# @ mh-squared
+#: admin/admin.php:44
+msgid "Customize Theme"
+msgstr "Theme anpassen"
+
+# @ mh-squared
+#: admin/admin.php:48
+msgid "Upgrade to MH Themes Bundle"
+msgstr "Upgrade auf MH Themes Bundle"
+
+# @ mh-squared
+#: admin/admin.php:49
+msgid "Do you want to have access to all Premium WordPress Themes by MH Themes including support and lifetime updates? You can upgrade to the MH Themes Bundle right away when you click on \"Shop\" in your MH Themes account."
+msgstr "Bevorzugen Sie Zugang zu allen Premium WordPress Themes von MH Themes inklusive Support und Lifetime Updates? Sie k&ouml;nnen jetzt auf das MH Themes Bundle upgraden indem Sie auf \"Shop\" in Ihrem MH Themes Account klicken."
+
+# @ mh-squared
+#: admin/admin.php:51
+msgid "Login to MH Themes account"
+msgstr "Login MH Themes Account"
+
+# @ mh-squared
+#: admin/admin.php:56
+msgid "Theme Screenshot"
+msgstr "Theme Screenshot"
+
+# @ mh-squared
+#: admin/admin.php:62
+#, php-format
+msgid "%1s WordPress theme is proudly brought to you by %2s."
+msgstr "%1s WordPress Theme wird Ihnen pr&auml;sentiert von %2s."
+
+# @ mh-squared
+#: admin/admin.php:76
+#, php-format
+msgid "Thanks for using %1s by MH Themes. To learn more about this theme, please %1s."
+msgstr "Vielen Dank, dass Sie %1s von MH Themes nutzen. Um mehr &uuml;ber das Theme zu erfahren, bitte %1s."
+
+# @ mh-squared
+#: admin/admin.php:76
+msgid "click here"
+msgstr "klicken Sie hier"
+
+# @ mh-squared
+#: comments.php:20 includes/mh-custom-functions.php:207
+#: includes/mh-custom-functions.php:272
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh-squared
+#: comments.php:20 includes/mh-custom-functions.php:208
+#: includes/mh-custom-functions.php:272
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ mh-squared
+#: comments.php:40
+msgid "Comments are closed."
+msgstr "Kommentare sind deaktiviert."
+
+# @ mh-squared
+#: comments.php:52
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+# @ mh-squared
+#: comments.php:53
+msgid "Your email address will not be published."
+msgstr "E-Mail Adresse wird nicht ver&ouml;ffentlicht."
+
+# @ mh-squared
+#: comments.php:55
+msgid "Comment"
+msgstr "Kommentar"
+
+# @ mh-squared
+#: content-none.php:4
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Es konnten keine passenden Inhalte gefunden werden. Bitte versuchen Sie es erneut mit einem anderen Suchbegriff."
+
+# @ mh-squared
+#: content-none.php:6
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for, perhaps searching can help?"
+msgstr "Es konnten keine passenden Inhalte gefunden werden. Vielleicht kann Ihnen die Suchfunktion weiterhelfen."
+
+# @ mh-squared
+#: footer.php:36
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Copyright &copy; %1$s %2$s"
+
+# @ mh-squared
+#: footer.php:40
+#, php-format
+msgid "MH Squared by %s"
+msgstr "MH Squared by %s"
+
+# @ mh-squared
+#: functions.php:42
+msgid "Header Navigation"
+msgstr "Header Navigation"
+
+# @ mh-squared
+#: functions.php:43
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+# @ mh-squared
+#: functions.php:44
+msgid "Footer Social Icons"
+msgstr "Footer Social Icons"
+
+# @ mh-squared
+#: functions.php:106
+msgid "Global - Sidebar"
+msgstr "Sidebar"
+
+# @ mh-squared
+#: functions.php:106
+msgid "Sidebar widgets located on every page except the homepage, suitable for all widgets."
+msgstr "Sidebar auf Artikeln, Seiten und Archiven."
+
+# @ mh-squared
+#: functions.php:107
+msgid "Header - Advertisement (Top)"
+msgstr "Header Anzeige (im Header)"
+
+# @ mh-squared
+#: functions.php:107
+msgid "Advertisement position located within the header alongside the logo, suitable for a single text widget."
+msgstr "Anzeigenbereich im Header."
+
+# @ mh-squared
+#: functions.php:108
+msgid "Header - Advertisement (Bottom)"
+msgstr "Header Anzeige (unterhalb Header)"
+
+# @ mh-squared
+#: functions.php:108
+msgid "Advertisement position located below the header above every page, suitable for a single text widget."
+msgstr "Anzeigenbereich unterhalb des Headers."
+
+# @ mh-squared
+#: functions.php:109
+msgid "Main column widgets located on homepage only, suitable for widgets with the [MH] prefix and text widgets."
+msgstr "Widgets im Contentbereich auf der Startseite."
+
+# @ mh-squared
+#: functions.php:110
+msgid "Sidebar widgets located on homepage only, suitable for all widgets."
+msgstr "Sidebar auf der Startseite."
+
+# @ mh-squared
+#: functions.php:111
+msgid "Advertisement position located above the post content, suitable for a single text widget."
+msgstr "Anzeigenbereich oberhalb des Contents auf Artikelebene."
+
+# @ mh-squared
+#: functions.php:112
+msgid "Advertisement position located below the post contents, suitable for a single text widget."
+msgstr "Anzeigenbereich unterhalb des Contents auf Artikelebene."
+
+# @ mh-squared
+#: functions.php:113
+msgid "Footer - Advertisement"
+msgstr "Footer - Anzeige"
+
+# @ mh-squared
+#: functions.php:113
+msgid "Advertisement position located above the footer on every page, suitable for a single text widget."
+msgstr "Anzeigenbereich oberhalb des Footers."
+
+# @ mh-squared
+#: functions.php:114
+msgid "Footer 1 - First Column"
+msgstr "Footer 1 - Erste Spalte"
+
+# @ mh-squared
+#: functions.php:114 functions.php:115 functions.php:116
+msgid "Footer widgets located at the bottom of every page."
+msgstr "Footer Widgets sichtbar auf allen Artikeln/Seiten."
+
+# @ mh-squared
+#: functions.php:115
+msgid "Footer 2 - Second Column"
+msgstr "Footer 2 - Zweite Spalte"
+
+# @ mh-squared
+#: functions.php:116
+msgid "Footer 3 - Third Column"
+msgstr "Footer 3 - Dritte Spalte"
+
+# @ mh-squared
+#: functions.php:117
+msgid "Contact - Sidebar"
+msgstr "Kontakt - Sidebar"
+
+# @ mh-squared
+#: functions.php:117
+msgid "Sidebar widgets located on the contact page template only, suitable for all widgets."
+msgstr "Sidebar f&uuml;r das Kontakt-Template."
+
+# @ mh-squared
+#: includes/mh-breadcrumb.php:16
+msgid "Home"
+msgstr "Home"
+
+# @ mh-squared
+#: includes/mh-breadcrumb.php:27
+msgid "Media"
+msgstr "Media"
+
+# @ mh-squared
+#: includes/mh-breadcrumb.php:60
+msgid "Author Archive"
+msgstr "Autor Archiv"
+
+# @ mh-squared
+#: includes/mh-breadcrumb.php:62
+msgid "Page not found (404)"
+msgstr "Seite nicht gefunden (404)"
+
+# @ mh-squared
+#: includes/mh-breadcrumb.php:64
+msgid "Search"
+msgstr "Suche"
+
+# @ mh-squared
+#: includes/mh-breadcrumb.php:74 includes/mh-breadcrumb.php:77
+msgid "Yearly Archives"
+msgstr "J&auml;hrliche Archive"
+
+# @ mh-squared
+#: includes/mh-breadcrumb.php:75
+msgid "Monthly Archives"
+msgstr "Monatliche Archive"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:50
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr "Artikel von %s"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:62 template-sitemap.php:29
+msgid "Archives"
+msgstr "Archive"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:68
+msgid "Page not found (404 Error)"
+msgstr "Seite nicht gefunden (404 Error)"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:70
+#, php-format
+msgid "Search Results: %s"
+msgstr "Suchergebnisse f&uuml;r %s"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:86
+msgid "Tagged With"
+msgstr "Tags"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:105
+#, php-format
+msgctxt "comments number"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:119
+msgid "Filed Under"
+msgstr "Themen"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:160
+msgid "Related Posts"
+msgstr "&Auml;hnliche Artikel"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:243
+msgid "Back to post"
+msgstr "Zur&uuml;ck zum Artikel"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:245
+msgid "Previous image"
+msgstr "Vorheriges Bild"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:248
+msgid "Previous post"
+msgstr "Vorheriger Artikel"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:255
+msgid "Next image"
+msgstr "N&auml;chstes Bild"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:257
+msgid "Next post"
+msgstr "N&auml;chster Artikel"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:289
+#, php-format
+msgid "%1$s @ %2$s"
+msgstr "%1$s @ %2$s"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:293
+msgid "Your comment is awaiting moderation."
+msgstr "Der Kommentar wartet auf Freischaltung."
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:303
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:317
+msgid "Name "
+msgstr "Name "
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:318
+msgid "Email "
+msgstr "E-Mail"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:319
+msgid "Website"
+msgstr "Webseite"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:334
+msgid "Share on Facebook"
+msgstr "Auf Facebook teilen"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:337
+msgid "Tweet This Post"
+msgstr "Diesen Artikel twittern"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:340
+msgid "Pin This Post"
+msgstr "Auf Pinterest teilen"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:343
+msgid "Share on Google+"
+msgstr "Auf Google+ teilen"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:361
+msgid "About the author"
+msgstr "&Uuml;ber den Autor"
+
+# @ mh-squared
+#: includes/mh-custom-functions.php:380
+#, php-format
+msgid "More Posts (%s)"
+msgstr "Weitere Artikel (%s)"
+
+# @ mh-squared
+#: includes/mh-options.php:19
+msgid "General"
+msgstr "Allgemein"
+
+# @ mh-squared
+#: includes/mh-options.php:20
+msgid "Layout"
+msgstr "Layout"
+
+# @ mh-squared
+#: includes/mh-options.php:21
+msgid "News Ticker"
+msgstr "Newsticker"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:94
+msgid "Typography"
+msgstr "Typographie"
+
+# @ mh-squared
+#: includes/mh-options.php:44 includes/mh-options.php:147
+msgid "Latest"
+msgstr "Aktuell"
+
+# @ mh-squared
+#: includes/mh-options.php:56
+msgid "Custom Excerpt Length in Words"
+msgstr "L&auml;nge der Textausz&uuml;ge in Worten"
+
+# @ mh-squared
+#: includes/mh-options.php:26 includes/mh-options.php:131
+msgid "Read More"
+msgstr "Weiterlesen"
+
+# @ mh-squared
+#: includes/mh-options.php:58
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+# @ mh-squared
+#: includes/mh-options.php:59
+msgid "Theme Credits"
+msgstr "Theme Credits"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:108 includes/mh-options.php:59
+#: includes/mh-options.php:62 includes/mh-options.php:63
+#: includes/mh-options.php:64 includes/mh-options.php:65
+#: includes/mh-options.php:66 includes/mh-options.php:67
+#: includes/mh-options.php:68 includes/mh-options.php:69
+#: includes/mh-options.php:70 includes/mh-options.php:71
+#: includes/mh-options.php:72 includes/mh-options.php:104
+#: includes/widgets/mh-custom-pages.php:93
+msgid "Enable"
+msgstr "Aktivieren"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:108 includes/mh-options.php:59
+#: includes/mh-options.php:62 includes/mh-options.php:63
+#: includes/mh-options.php:64 includes/mh-options.php:65
+#: includes/mh-options.php:66 includes/mh-options.php:67
+#: includes/mh-options.php:68 includes/mh-options.php:69
+#: includes/mh-options.php:70 includes/mh-options.php:71
+#: includes/mh-options.php:72 includes/mh-options.php:105
+#: includes/widgets/mh-custom-pages.php:94
+msgid "Disable"
+msgstr "Deaktivieren"
+
+# @ mh-squared
+#: includes/mh-options.php:61
+msgid "Sidebar Alignment"
+msgstr "Sidebar Anordnung"
+
+# @ mh-squared
+#: includes/mh-options.php:61 includes/mh-options.php:106
+msgid "Right Sidebar"
+msgstr "Rechte Sidebar"
+
+# @ mh-squared
+#: includes/mh-options.php:61 includes/mh-options.php:107
+msgid "Left Sidebar"
+msgstr "Linke Sidebar"
+
+# @ mh-squared
+#: includes/mh-options.php:62
+msgid "Breadcrumb Navigation"
+msgstr "Breadcrumb Navigation"
+
+# @ mh-squared
+#: includes/mh-options.php:63
+msgid "Featured Image on Posts"
+msgstr "Beitragsbild auf Artikeln"
+
+# @ mh-squared
+#: includes/mh-options.php:64
+msgid "Categories on Posts"
+msgstr "Kategorien auf Artikeln"
+
+# @ mh-squared
+#: includes/mh-options.php:65
+msgid "Date on Posts"
+msgstr "Datum auf Artikeln"
+
+# @ mh-squared
+#: includes/mh-options.php:66
+msgid "Author Name on Posts"
+msgstr "Autor auf Artikeln"
+
+# @ mh-squared
+#: includes/mh-options.php:67
+msgid "Comment Count on Posts"
+msgstr "Anzahl Kommentare auf Artikeln"
+
+# @ mh-squared
+#: includes/mh-options.php:68
+msgid "Tags on Posts"
+msgstr "Tags in Artikeln"
+
+# @ mh-squared
+#: includes/mh-options.php:69
+msgid "Sharing Buttons"
+msgstr "Sharing Buttons"
+
+# @ mh-squared
+#: includes/mh-options.php:70
+msgid "Author Box"
+msgstr "Autorbox"
+
+# @ mh-squared
+#: includes/mh-options.php:71
+msgid "Related Articles"
+msgstr "&Auml;hnliche Artikel"
+
+# @ mh-squared
+#: includes/mh-options.php:72
+msgid "Post/Attachment Navigation"
+msgstr "Seiten-/Artikelnavigation"
+
+# @ mh-squared
+#: includes/mh-options.php:74
+msgid "Enable Ticker"
+msgstr "Ticker aktivieren"
+
+# @ mh-squared
+#: includes/mh-options.php:75
+msgid "Ticker Title"
+msgstr "Ticker-Titel"
+
+# @ mh-squared
+#: includes/mh-options.php:76
+msgid "Limit Post Number"
+msgstr "Anzahl der Artikel"
+
+# @ mh-squared
+#: includes/mh-options.php:77
+msgid "Custom Categories (use ID - e.g. 3,5,9):"
+msgstr "Kategorienfilter (ID - z.B. 3,5,9):"
+
+# @ mh-squared
+#: includes/mh-options.php:78
+msgid "Custom Tags (use slug - e.g. lifestyle):"
+msgstr "Tag-Filter (slug - z.B. lifestyle):"
+
+# @ mh-squared
+#: includes/mh-options.php:79
+msgid "Skip Posts (Offset):"
+msgstr "Anzahl &uuml;berspringen (Offset):"
+
+# @ mh-squared
+#: includes/mh-options.php:80
+msgid "Ignore Sticky Posts"
+msgstr "Sticky Posts ignorieren"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:107
+msgid "Change default Font Size (px)"
+msgstr "Standard Schriftgr&ouml;&szlig;e (px)"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:108
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:109
+msgid "Google Webfonts Characters"
+msgstr "Google Webfonts Zeichen"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:12
+msgid "Latin"
+msgstr "Lateinisch"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:13
+msgid "Latin Extended"
+msgstr "Lateinisch erweitert"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:9
+msgid "Greek"
+msgstr "Griechisch"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:10
+msgid "Greek Extended"
+msgstr "Griechisch erweitert"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:7
+msgid "Cyrillic"
+msgstr "Kyrillisch"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:8
+msgid "Cyrillic Extended"
+msgstr "Kyrillisch erweitert"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:110
+msgid "Google Webfont for Headings"
+msgstr "Google Webfont f&uuml;r &Uuml;berschriften"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:111
+msgid "Google Webfont for Body Text"
+msgstr "Google Webfont f&uuml;r Body Text"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:112
+msgid "Imported Google Font Styles"
+msgstr "Importierte Google Font Styles"
+
+# @ mh-squared
+#: includes/mh-options.php:82 includes/mh-options.php:83
+#, php-format
+msgctxt "options panel"
+msgid "Theme Color %d"
+msgstr "Theme Farbe %d"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:11
+msgid "MH Authors widget to display a list of authors including the number of published posts."
+msgstr "MH Authors Widget um eine Liste der Autoren samt Anzahl der ver&ouml;ffentlichten Artikel auszugeben."
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:45 includes/widgets/mh-authors.php:50
+#, php-format
+msgid "Articles by %s"
+msgstr "Artikel von %s"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:54
+#, php-format
+msgctxt "author post count"
+msgid "%d Posts"
+msgstr "%d Artikel"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:60
+msgid "No authors found"
+msgstr "Keine Autoren gefunden"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:92
+msgid "Authors"
+msgstr "Autoren"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:95 includes/widgets/mh-comments.php:62
+#: includes/widgets/mh-custom-pages.php:79
+#: includes/widgets/mh-custom-posts.php:175
+#: includes/widgets/mh-facebook-page.php:49
+#: includes/widgets/mh-posts-grid.php:140
+#: includes/widgets/mh-posts-large.php:136
+#: includes/widgets/mh-youtube-video.php:56
+msgid "Title:"
+msgstr "Titel:"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:99
+msgid "Limit Author Number:"
+msgstr "Anzahl Autoren:"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:103
+msgid "Skip Authors (Offset):"
+msgstr "Anzahl &uuml;berspringen (Offset):"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:107
+msgid "User Role:"
+msgstr "Nutzerrolle:"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:109
+msgid "All Users"
+msgstr "Alle User"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:110
+msgid "Administrator"
+msgstr "Administrator"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:111
+msgid "Editor"
+msgstr "Redakteur"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:112
+msgid "Author"
+msgstr "Autor"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:113
+msgid "Contributor"
+msgstr "Mitarbeiter"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:114
+msgid "Subscriber"
+msgstr "Abonnent"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:118
+msgid "Order Authors by:"
+msgstr "Autoren sortieren nach:"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:120
+msgid "Number of Posts"
+msgstr "Anzahl der Artikel"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:121
+msgid "User Name"
+msgstr "Nutzernamen"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:125
+msgid "Order:"
+msgstr "Reihenfolge:"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:127
+msgid "Ascending"
+msgstr "Reihenfolge:"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:128
+msgid "Descending"
+msgstr "absteigend"
+
+# @ mh-squared
+#: includes/widgets/mh-comments.php:8
+msgctxt "widget name"
+msgid "MH Recent Comments"
+msgstr "MH Recent Comments"
+
+# @ mh-squared
+#: includes/widgets/mh-comments.php:11
+msgid "MH Recent Comments widget to display your recent comments including user avatars."
+msgstr "MH Recent Comments Widget um die neuesten Kommentare inklusive Avatar des Nutzers anzuzeigen."
+
+# @ mh-squared
+#: includes/widgets/mh-comments.php:35
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr "%1$s zu %2$s"
+
+# @ mh-squared
+#: includes/widgets/mh-comments.php:59
+msgid "Recent Comments"
+msgstr "Neueste Kommentare"
+
+# @ mh-squared
+#: includes/widgets/mh-comments.php:66
+msgid "Limit Comment Number:"
+msgstr "Anzahl der Kommentare:"
+
+# @ mh-squared
+#: includes/widgets/mh-comments.php:70
+msgid "Skip Comments (Offset):"
+msgstr "Anzahl &uuml;berspringen (Offset):"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-pages.php:8
+msgctxt "widget name"
+msgid "MH Custom Pages"
+msgstr "MH Custom Pages"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-pages.php:11
+msgid "Display any of your pages with this widget."
+msgstr "Custom Pages Widget um Seiten anhand der Seiten-ID auszugeben."
+
+# @ mh-squared
+#: includes/widgets/mh-custom-pages.php:83
+#: includes/widgets/mh-custom-posts.php:179
+#: includes/widgets/mh-posts-grid.php:144
+#: includes/widgets/mh-posts-large.php:140
+#: includes/widgets/mh-youtube-video.php:60
+msgid "Link Title to custom URL (optional):"
+msgstr "Titel mit URL verlinken (optional):"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-pages.php:87
+msgid "Filter Pages by ID (comma separated):"
+msgstr "Seiten nach ID filtern (Komma getrennt):"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-pages.php:91
+msgid "Display Excerpt:"
+msgstr "Textausz&uuml;ge anzeigen:"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts"
+msgstr "MH Custom Posts"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:11
+msgid "Display posts including thumbnail images."
+msgstr "Artikel f&uuml;r beliebige Kategorie oder Schlagwort anzeigen."
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:183
+#: includes/widgets/mh-posts-grid.php:148
+#: includes/widgets/mh-posts-large.php:144 includes/widgets/mh-slider.php:102
+msgid "Select a Category:"
+msgstr "Kategorie w&auml;hlen:"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:185
+#: includes/widgets/mh-posts-grid.php:150
+#: includes/widgets/mh-posts-large.php:146 includes/widgets/mh-slider.php:104
+msgid "All"
+msgstr "Alle"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:191
+#: includes/widgets/mh-posts-grid.php:156
+#: includes/widgets/mh-posts-large.php:152 includes/widgets/mh-slider.php:110
+msgid "Select a category to display posts from."
+msgstr "Kategorie der gew&uuml;nschten Artikel ausw&auml;hlen."
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:194
+#: includes/widgets/mh-posts-grid.php:159
+#: includes/widgets/mh-posts-large.php:155 includes/widgets/mh-slider.php:113
+msgid "Multiple Categories Filter by ID:"
+msgstr "Mehrere Kategorien nach ID filtern:"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:198
+#: includes/widgets/mh-posts-grid.php:163
+#: includes/widgets/mh-posts-large.php:159 includes/widgets/mh-slider.php:117
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr "Artikel nach Tags filtern (z.B. Lifestyle):"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:202
+#: includes/widgets/mh-posts-grid.php:167
+#: includes/widgets/mh-posts-large.php:163 includes/widgets/mh-slider.php:121
+msgid "Post Count (max. 50):"
+msgstr "Anzahl Artikel (max. 50):"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:206
+#: includes/widgets/mh-posts-grid.php:171
+#: includes/widgets/mh-posts-large.php:167 includes/widgets/mh-slider.php:125
+msgid "Skip Posts (max. 50):"
+msgstr "Anzahl &uuml;berspringen (max. 50):"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:210
+#: includes/widgets/mh-posts-grid.php:175
+#: includes/widgets/mh-posts-large.php:171 includes/widgets/mh-slider.php:129
+msgid "Post Order:"
+msgstr "Artikel sortieren nach:"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:212
+#: includes/widgets/mh-posts-grid.php:177
+#: includes/widgets/mh-posts-large.php:173 includes/widgets/mh-slider.php:131
+msgid "Latest Posts"
+msgstr "Datum"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:213
+#: includes/widgets/mh-posts-grid.php:178
+#: includes/widgets/mh-posts-large.php:174 includes/widgets/mh-slider.php:132
+msgid "Random Posts"
+msgstr "Zufall"
+
+# @ mh-squared
+#: includes/widgets/mh-custom-posts.php:214
+#: includes/widgets/mh-posts-grid.php:179
+#: includes/widgets/mh-posts-large.php:175 includes/widgets/mh-slider.php:133
+msgid "Popular Posts"
+msgstr "Beliebtheit"
+
+# @ mh-squared
+#: includes/widgets/mh-facebook-page.php:8
+msgctxt "widget name"
+msgid "MH Facebook Page"
+msgstr "MH Facebook Page"
+
+# @ mh-squared
+#: includes/widgets/mh-facebook-page.php:11
+msgid "Widget to display your Facebook page on your website."
+msgstr "Widget um eine Facebook Seite auf der Webseite anzuzeigen."
+
+# @ mh-squared
+#: includes/widgets/mh-facebook-page.php:16
+#: includes/widgets/mh-facebook-page.php:45
+msgid "Follow on Facebook"
+msgstr "Folge uns bei Facebook"
+
+# @ mh-squared
+#: includes/widgets/mh-facebook-page.php:53
+msgid "Facebook Page URL:"
+msgstr "Facebook URL:"
+
+# @ mh-squared
+#: includes/widgets/mh-facebook-page.php:57
+msgid "Width (min. 280px):"
+msgstr "Breite (min. 280px):"
+
+# @ mh-squared
+#: includes/widgets/mh-facebook-page.php:61
+msgid "Height (min. 130px):"
+msgstr "H&ouml;he (min. 130px):"
+
+# @ mh-squared
+#: includes/widgets/mh-facebook-page.php:66
+msgid "Hide cover photo"
+msgstr "Coverfoto verbergen"
+
+# @ mh-squared
+#: includes/widgets/mh-facebook-page.php:70
+msgid "Show profile photos"
+msgstr "Profilfotos zeigen"
+
+# @ mh-squared
+#: includes/widgets/mh-facebook-page.php:74
+msgid "Show posts from FB page"
+msgstr "Facebook Posts zeigen"
+
+# @ mh-squared
+#: includes/widgets/mh-posts-grid.php:8
+msgctxt "widget name"
+msgid "MH Posts Grid"
+msgstr "MH Posts Grid"
+
+# @ mh-squared
+#: includes/widgets/mh-posts-grid.php:11
+msgid "Display a grid of posts including thumbnail images."
+msgstr "Artikel als Grid auf Homepage anzeigen."
+
+# @ mh-squared
+#: includes/widgets/mh-posts-large.php:8
+msgctxt "widget name"
+msgid "MH Posts Large"
+msgstr "MH Posts Large"
+
+# @ mh-squared
+#: includes/widgets/mh-posts-large.php:11
+msgid "Display posts (large-sized) including thumbnail images."
+msgstr "Artikel mit großen Bildern auf Homepage anzeigen."
+
+# @ mh-squared
+#: includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider"
+msgstr "MH Slider"
+
+# @ mh-squared
+#: includes/widgets/mh-slider.php:11
+msgid "Display any of your posts in a responsive content slider."
+msgstr "Sliderwidget f&uuml;r die Homepage."
+
+# @ mh-squared
+#: includes/widgets/mh-youtube-video.php:8
+msgctxt "widget name"
+msgid "MH YouTube Video"
+msgstr "MH YouTube Video"
+
+# @ mh-squared
+#: includes/widgets/mh-youtube-video.php:64
+msgid "Video ID:"
+msgstr "Video ID:"
+
+# @ mh-squared
+#: template-sitemap.php:12
+msgid "Recent Posts"
+msgstr "Neueste Artikel"
+
+# @ mh-squared
+#: template-sitemap.php:22
+msgid "Pages"
+msgstr "Seiten"
+
+# @ mh-squared
+#: template-sitemap.php:35
+msgid "Categories"
+msgstr "Kategorien"
+
+# @ mh-squared
+#: template-sitemap.php:38
+msgid "No categories"
+msgstr "Keine Kategorien"
+
+# @ mh-squared
+#: comments.php:11
+#, php-format
+msgid "Readers Comments (1)"
+msgid_plural "Readers Comments (%1$s)"
+msgstr[0] "Kommentare (1)"
+msgstr[1] "Kommentare (%1$s)"
+
+# @ mh-squared
+#: comments.php:27
+#, php-format
+msgid "Trackbacks & Pingbacks (%s)"
+msgstr "Trackbacks & Pingbacks (%s)"
+
+# @ mh-squared
+#: comments.php:46
+msgid "Be the first to comment"
+msgstr "Kommentar hinterlassen"
+
+# @ mh-squared
+#: functions.php:109
+msgid "Home 1 - Main Column"
+msgstr "Home 1"
+
+# @ mh-squared
+#: functions.php:110
+msgid "Home 2 - Sidebar"
+msgstr "Home 2 - Sidebar"
+
+# @ mh-squared
+#: functions.php:111
+msgid "Posts 1 - Advertisement (Top)"
+msgstr "Posts 1 - Anzeige (oben)"
+
+# @ mh-squared
+#: functions.php:112
+msgid "Posts 2 - Advertisement (Bottom)"
+msgstr "Posts 2 - Anzeige (unten)"
+
+# @ mh-squared
+#: includes/mh-options.php:57
+msgid "Custom Excerpt More-Text"
+msgstr "Beliebiger More-Text"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:6
+msgid "Arabic"
+msgstr "Arabisch"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:11
+msgid "Hebrew"
+msgstr "Hebr&auml;isch"
+
+# @ mh-squared
+#: includes/mh-google-webfonts.php:14
+msgid "Vietnamese"
+msgstr "Vietnamesisch"
+
+# @ mh-squared
+#: includes/widgets/mh-authors.php:8
+msgctxt "widget name"
+msgid "MH Authors"
+msgstr "MH Authors"
+
+# @ mh-squared
+#: includes/widgets/mh-youtube-video.php:11
+msgid "Widget to display a YouTube Video."
+msgstr "Widget um YouTube Video anzuzeigen."
+
+# @ mh-squared
+#: includes/widgets/mh-youtube-video.php:66
+msgid "Enter the YouTube video ID - also known as the watch code (e.g. AvOTBFM_3RQ)"
+msgstr "Video ID eingeben - auch bekannt als Watch Code (z.B.: AvOTBFM_3RQ)"
+
+# @ mh-squared
+#: includes/widgets/mh-youtube-video.php:70
+msgid "Enable Autoplay"
+msgstr "Autoplay aktivieren"
+
+# @ mh-squared
+#: includes/widgets/mh-youtube-video.php:74
+msgid "Display Video Title / Information"
+msgstr "Video Titel / Information anzeigen"
+
+# @ mh-squared
+#: includes/widgets/mh-youtube-video.php:78
+msgid "Display Player Controls"
+msgstr "Player Controls anzeigen"
+
+# @ mh-squared
+#: includes/widgets/mh-youtube-video.php:82
+msgid "Recommend Related Videos"
+msgstr "Empfohlene Videos anzeigen"

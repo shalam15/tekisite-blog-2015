@@ -1,0 +1,838 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Cicero v1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-03-31 13:36+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh-cicero
+#: comments.php:7
+msgid "No Comments, Be The First!"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:7
+msgid "1 Comment"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:7
+msgid "% Comments"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:15 includes/mh-custom-functions.php:131
+#: includes/mh-custom-functions.php:148
+msgid "&laquo;"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:15 includes/mh-custom-functions.php:132
+#: includes/mh-custom-functions.php:148
+msgid "&raquo;"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:19
+msgid "Comments are closed."
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:31
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:32
+msgid "Your email address will not be published."
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:35
+msgid "Send Comment"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:36
+msgid "Enter Message Here"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:38
+msgid "Enter Name"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:39
+msgid "Enter Email"
+msgstr ""
+
+# @ mh-cicero
+#: comments.php:40
+msgid "Enter URL"
+msgstr ""
+
+# @ mh-cicero
+#: content-none.php:4
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+# @ mh-cicero
+#: content-none.php:6
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ mh-cicero
+#: content-related.php:11 includes/mh-options.php:65
+msgid "Related Articles"
+msgstr ""
+
+# @ mh-cicero
+#: functions.php:40
+msgid "Main Navigation"
+msgstr ""
+
+# @ mh-cicero
+#: functions.php:41
+msgid "Social Icons in Footer"
+msgstr ""
+
+# @ mh-cicero
+#: functions.php:101 includes/mh-options.php:60
+msgid "Sidebar"
+msgstr ""
+
+# @ mh-cicero
+#: functions.php:101
+msgid "Sidebar on Posts/Pages."
+msgstr ""
+
+# @ mh-cicero
+#: functions.php:102
+msgid "Contact"
+msgstr ""
+
+# @ mh-cicero
+#: functions.php:102
+msgid "Sidebar on Contact Page Template."
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:17
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:29 page-sitemap.php:24
+msgid "Archives"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:35
+msgid "Page not found (404)"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:37
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:65
+#, php-format
+msgctxt "comments number"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:180
+msgid "Back to post"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:182
+msgid "Previous image"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:185
+msgid "Previous post"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:190
+msgid "Next image"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:192
+msgid "Next post"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:211
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:212
+msgid "(Edit)"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-custom-functions.php:215
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:231
+msgid "Featured Content"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:232
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:233 includes/mh-featured-content.php:243
+#: includes/mh-featured-content.php:282
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:256
+msgid "Tag Name"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-featured-content.php:261
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:19
+msgid "Theme Options"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:23
+msgid "General"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:24
+msgid "Layout"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:93
+msgid "Typography"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:25
+msgid "Custom CSS"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:26
+msgid "Tracking Code"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:31 includes/mh-options.php:135
+msgid "Read More"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:56
+msgid "Custom Excerpt Length in Words"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:57
+msgid "Custom Excerpt More-Text"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:58
+msgid "Copyright Text"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:60 includes/mh-options.php:109
+msgid "Right Sidebar"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:60 includes/mh-options.php:110
+msgid "Left Sidebar"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:61
+msgid "Featured Image on Posts"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:107 includes/mh-options.php:61
+#: includes/mh-options.php:62 includes/mh-options.php:63
+#: includes/mh-options.php:64 includes/mh-options.php:65
+#: includes/mh-options.php:107 includes/widgets/mh-authors.php:141
+#: includes/widgets/mh-comments.php:83
+msgid "Enable"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:107 includes/mh-options.php:61
+#: includes/mh-options.php:62 includes/mh-options.php:63
+#: includes/mh-options.php:64 includes/mh-options.php:65
+#: includes/mh-options.php:108 includes/widgets/mh-authors.php:142
+#: includes/widgets/mh-comments.php:84
+msgid "Disable"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:62
+msgid "Sharing Icons"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:63
+msgid "Post/Attachment Navigation"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:64
+msgid "Author Box"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:66
+msgid "Disable Post Meta Data"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:67
+msgid "Disable Date"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:68
+msgid "Disable Categories"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:69
+msgid "Disable Comments"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:106
+msgid "Change default Font Size (px)"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:107
+msgid "Google Webfonts"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:108
+msgid "Google Webfonts Characters"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:12
+msgid "Latin"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:13
+msgid "Latin Extended"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:9
+msgid "Greek"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:10
+msgid "Greek Extended"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:7
+msgid "Cyrillic"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:8
+msgid "Cyrillic Extended"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:109
+msgid "Google Webfont for Headings"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:110
+msgid "Google Webfont for Body Text"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:111
+msgid "Imported Google Font Styles"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:71
+msgid "Add your custom CSS code here:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:72
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:74 includes/mh-options.php:75
+#, php-format
+msgctxt "options panel"
+msgid "Theme Color %d"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:11
+msgid "MH Author Bio widget to display author avatar and biographical info."
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:48
+msgid "About me"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:51 includes/widgets/mh-authors.php:102
+#: includes/widgets/mh-comments.php:69 includes/widgets/mh-custom-posts.php:149
+#: includes/widgets/mh-facebook-page.php:50 includes/widgets/mh-youtube.php:56
+msgid "Title:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:11
+msgid ""
+"MH Authors widget to display a list of authors including the number of "
+"published posts."
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:46 includes/widgets/mh-authors.php:52
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:56
+#, php-format
+msgctxt "author post count"
+msgid "published %d articles"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:62
+msgid "No authors found"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:99
+msgid "Authors"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:106
+msgid "Limit Author Number:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:110
+msgid "Skip Authors (Offset):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:114
+msgid "User Role:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:116
+msgid "All Users"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:117
+msgid "Administrator"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:118
+msgid "Editor"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:119
+msgid "Author"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:120
+msgid "Contributor"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:121
+msgid "Subscriber"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:125
+msgid "Order Authors by:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:127
+msgid "Number of Posts"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:128
+msgid "User Name"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:132
+msgid "Order:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:134
+msgid "Ascending"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:135
+msgid "Descending"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:139 includes/widgets/mh-comments.php:81
+msgid "Author Avatar:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:11
+msgid ""
+"MH Recent Comments widget to display your recent comments including user "
+"avatars."
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:37
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:66
+msgid "Recent Comments"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:73
+msgid "Limit Comment Number:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:77
+msgid "Skip Comments (Offset):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:11
+msgid "MH Custom Posts Widget to display posts based on categories or tags."
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:157
+msgid "Select a Category:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:159
+msgid "All"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:168
+msgid "Multiple Categories Filter by ID:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:172
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:184
+msgid "Post Order:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:186
+msgid "Latest Posts"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:187
+msgid "Random Posts"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:188
+msgid "Popular Posts"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:153 includes/widgets/mh-youtube.php:60
+msgid "Link Title to custom URL (optional):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:197
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:193
+msgid "Hide Date"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:16
+#: includes/widgets/mh-facebook-page.php:46
+msgid "Follow on Facebook"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:54
+msgid "Facebook Page URL:"
+msgstr ""
+
+# @ mh-cicero
+#: page-sitemap.php:9
+msgid "Recent Articles"
+msgstr ""
+
+# @ mh-cicero
+#: page-sitemap.php:17
+msgid "Pages"
+msgstr ""
+
+# @ mh-cicero
+#: page-sitemap.php:30
+msgid "Categories"
+msgstr ""
+
+# @ mh-cicero
+#: page-sitemap.php:32
+msgid "No categories"
+msgstr ""
+
+# @ mh-cicero
+#: template-authorbox.php:12
+#, php-format
+msgid "About %s"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-options.php:77
+msgid "Hide Featured Content"
+msgstr ""
+
+# @ mh-cicero
+#: template-featured.php:7
+msgid ""
+"There is no featured content, please tag posts with the tag that you have "
+"set in your WordPress dashboard under \"Appearance => Customize => Featured "
+"Content\"."
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:8
+msgctxt "widget name"
+msgid "MH Facebook Page"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:11
+msgid "Widget to display your Facebook page on your website."
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:58
+msgid "Width (min. 280px):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:62
+msgid "Height (min. 130px):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:67
+msgid "Hide cover photo"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:71
+msgid "Show profile photos"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-facebook-page.php:75
+msgid "Show posts from FB page"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:11
+msgid "Widget to display a YouTube Video."
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:6
+msgid "Arabic"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:11
+msgid "Hebrew"
+msgstr ""
+
+# @ mh-cicero
+#: includes/mh-google-webfonts.php:14
+msgid "Vietnamese"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:8
+msgctxt "widget name"
+msgid "MH Author Bio"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-author-bio.php:55
+msgid "Select User:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-authors.php:8
+msgctxt "widget name"
+msgid "MH Authors"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-comments.php:8
+msgctxt "widget name"
+msgid "MH Recent Comments"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:165
+msgid "Select a category to display posts from."
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:176
+msgid "Post Count (max. 50):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-custom-posts.php:180
+msgid "Skip Posts (max. 50):"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:8
+msgctxt "widget name"
+msgid "MH YouTube Video"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:64
+msgid "Video ID:"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:66
+msgid ""
+"Enter the YouTube video ID - also known as the watch code, example: "
+"AvOTBFM_3RQ)"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:70
+msgid "Enable Autoplay"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:74
+msgid "Display Video Title / Information"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:78
+msgid "Display Player Controls"
+msgstr ""
+
+# @ mh-cicero
+#: includes/widgets/mh-youtube.php:82
+msgid "Recommend Related Videos"
+msgstr ""

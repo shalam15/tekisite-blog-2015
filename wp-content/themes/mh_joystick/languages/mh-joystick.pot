@@ -1,0 +1,1193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Joystick v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-04-03 14:41+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh-joystick
+#: admin/admin.php:7
+msgid "Theme Info"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:16
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:20
+msgid "Important Links:"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:21
+msgid "Theme Info Page"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:22
+msgid "Support Center"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:23
+msgid "Facebook"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:24
+msgid "Twitter"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:25
+msgid "YouTube"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:30
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:34
+msgid "Theme Documentation"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:35
+#, php-format
+msgid ""
+"Need support to setup and configure %s? Please have a look at the "
+"instructions in the theme documentation or register at our support forums "
+"when you click on \"Support\" in your MH Themes account."
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:37
+msgid "Visit Documentation"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:41 includes/mh-options.php:15
+msgid "Theme Options"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:42
+#, php-format
+msgid ""
+"%s WordPress theme supports the Theme Customizer for all theme settings. "
+"Click \"Customize Theme\" to open the Customizer now."
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:44
+msgid "Customize Theme"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:48
+msgid "Upgrade to MH Themes Bundle"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:49
+msgid ""
+"Do you want to have access to all Premium WordPress Themes by MH Themes "
+"including support and lifetime updates? You can upgrade to the MH Themes "
+"Bundle right away when you click on \"Shop\" in your MH Themes account."
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:51
+msgid "Login to MH Themes account"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:56
+msgid "Theme Screenshot"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:62
+#, php-format
+msgid "%1s WordPress theme is proudly brought to you by %2s."
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:76
+#, php-format
+msgid ""
+"Thanks for using %1s by MH Themes. To learn more about this theme, please "
+"%1s."
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:76
+msgid "click here"
+msgstr ""
+
+# @ mh-joystick
+#: comments.php:20 includes/mh-custom-functions.php:207
+#: includes/mh-custom-functions.php:272
+msgid "&laquo;"
+msgstr ""
+
+# @ mh-joystick
+#: comments.php:20 includes/mh-custom-functions.php:208
+#: includes/mh-custom-functions.php:272
+msgid "&raquo;"
+msgstr ""
+
+# @ mh-joystick
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+# @ mh-joystick
+#: comments.php:52
+msgid "Leave a comment"
+msgstr ""
+
+# @ mh-joystick
+#: comments.php:53
+msgid "Your email address will not be published."
+msgstr ""
+
+# @ mh-joystick
+#: comments.php:55
+msgid "Comment"
+msgstr ""
+
+# @ mh-joystick
+#: content-none.php:4
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+# @ mh-joystick
+#: content-none.php:6
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for, perhaps "
+"searching can help?"
+msgstr ""
+
+# @ mh-joystick
+#: footer.php:29
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:42
+msgid "Header Navigation"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:43
+msgid "Main Navigation"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:107
+msgid "Global - Sidebar"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:107
+msgid ""
+"Sidebar widgets located on every page except the homepage, suitable for all "
+"widgets."
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:109
+msgid ""
+"Main column widgets located on homepage only, suitable for widgets with the "
+"[MH] prefix and text widgets."
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:110
+msgid "Sidebar widgets located on homepage only, suitable for all widgets."
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:111
+msgid ""
+"Advertisement position located above the post content, suitable for a single "
+"text widget."
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:113
+msgid "Footer - Advertisement"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:113
+msgid ""
+"Advertisement position located above the footer on every page, suitable for "
+"a single text widget."
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:114
+msgid "Footer 1 - First Column"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:114 functions.php:115 functions.php:116
+msgid "Footer widgets located at the bottom of every page."
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:115
+msgid "Footer 2 - Second Column"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:116
+msgid "Footer 3 - Third Column"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:117
+msgid "Contact - Sidebar"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:117
+msgid ""
+"Sidebar widgets located on the contact page template only, suitable for all "
+"widgets."
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-breadcrumb.php:16
+msgid "Home"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-breadcrumb.php:27
+msgid "Media"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-breadcrumb.php:60
+msgid "Author Archive"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-breadcrumb.php:62
+msgid "Page not found (404)"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-breadcrumb.php:64
+msgid "Search"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-breadcrumb.php:74 includes/mh-breadcrumb.php:77
+msgid "Yearly Archives"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-breadcrumb.php:75
+msgid "Monthly Archives"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:50
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:62 template-sitemap.php:29
+msgid "Archives"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:68
+msgid "Page not found (404 Error)"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:70
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:105
+#, php-format
+msgctxt "comments number"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:160 includes/mh-options.php:71
+msgid "Related Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:243
+msgid "Back to post"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:245
+msgid "Previous image"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:248
+msgid "Previous post"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:255
+msgid "Next image"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:257
+msgid "Next post"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:289
+#, php-format
+msgid "%1$s @ %2$s"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:293
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:304
+msgid "Edit"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:319
+msgid "Name "
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:320
+msgid "Email "
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:321
+msgid "Website"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:336
+msgid "Share on Facebook"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:339
+msgid "Tweet This Post"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:342
+msgid "Pin This Post"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:345
+msgid "Share on Google+"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:363
+msgid "About the author"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:382
+#, php-format
+msgid "More Posts (%s)"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:19
+msgid "General"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:20
+msgid "Layout"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:21
+msgid "News Ticker"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:95
+msgid "Typography"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:44 includes/mh-options.php:147
+msgid "Latest"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:56
+msgid "Custom Excerpt Length in Words"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:26 includes/mh-options.php:131
+msgid "Read More"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:58
+msgid "Copyright Text"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:59
+msgid "Theme Credits"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:109 includes/mh-options.php:59
+#: includes/mh-options.php:62 includes/mh-options.php:63
+#: includes/mh-options.php:64 includes/mh-options.php:65
+#: includes/mh-options.php:66 includes/mh-options.php:67
+#: includes/mh-options.php:68 includes/mh-options.php:69
+#: includes/mh-options.php:70 includes/mh-options.php:71
+#: includes/mh-options.php:72 includes/mh-options.php:104
+#: includes/widgets/mh-custom-pages.php:93
+msgid "Enable"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:109 includes/mh-options.php:59
+#: includes/mh-options.php:62 includes/mh-options.php:63
+#: includes/mh-options.php:64 includes/mh-options.php:65
+#: includes/mh-options.php:66 includes/mh-options.php:67
+#: includes/mh-options.php:68 includes/mh-options.php:69
+#: includes/mh-options.php:70 includes/mh-options.php:71
+#: includes/mh-options.php:72 includes/mh-options.php:105
+#: includes/widgets/mh-custom-pages.php:94
+msgid "Disable"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:61
+msgid "Sidebar Alignment"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:61 includes/mh-options.php:106
+msgid "Right Sidebar"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:61 includes/mh-options.php:107
+msgid "Left Sidebar"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:62
+msgid "Breadcrumb Navigation"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:63
+msgid "Featured Image on Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:64
+msgid "Categories on Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:65
+msgid "Date on Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:66
+msgid "Author Name on Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:67
+msgid "Comment Count on Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:68
+msgid "Tags on Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:69
+msgid "Sharing Buttons"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:70
+msgid "Author Box"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:72
+msgid "Post/Attachment Navigation"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:74
+msgid "Enable Ticker"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:75
+msgid "Ticker Title"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:76
+msgid "Limit Post Number"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:77
+msgid "Custom Categories (use ID - e.g. 3,5,9):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:78
+msgid "Custom Tags (use slug - e.g. lifestyle):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:79
+msgid "Skip Posts (Offset):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:80
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:108
+msgid "Change default Font Size (px)"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:109
+msgid "Google Webfonts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:110
+msgid "Google Webfonts Characters"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:12
+msgid "Latin"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:13
+msgid "Latin Extended"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:9
+msgid "Greek"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:10
+msgid "Greek Extended"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:7
+msgid "Cyrillic"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:8
+msgid "Cyrillic Extended"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:111
+msgid "Google Webfont for Headings"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:112
+msgid "Google Webfont for Body Text"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:113
+msgid "Imported Google Font Styles"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:82 includes/mh-options.php:83
+#, php-format
+msgctxt "options panel"
+msgid "Theme Color %d"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:11
+msgid ""
+"MH Authors widget to display a list of authors including the number of "
+"published posts."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:45 includes/widgets/mh-authors.php:50
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:54
+#, php-format
+msgctxt "author post count"
+msgid "%d Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:60
+msgid "No authors found"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:92
+msgid "Authors"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:95 includes/widgets/mh-comments.php:64
+#: includes/widgets/mh-custom-pages.php:79
+#: includes/widgets/mh-custom-posts.php:164
+#: includes/widgets/mh-facebook-page.php:49
+#: includes/widgets/mh-posts-grid.php:140
+#: includes/widgets/mh-posts-large.php:130
+#: includes/widgets/mh-youtube-video.php:56
+msgid "Title:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:99
+msgid "Limit Author Number:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:103
+msgid "Skip Authors (Offset):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:107
+msgid "User Role:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:109
+msgid "All Users"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:110
+msgid "Administrator"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:111
+msgid "Editor"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:112
+msgid "Author"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:113
+msgid "Contributor"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:114
+msgid "Subscriber"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:118
+msgid "Order Authors by:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:120
+msgid "Number of Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:121
+msgid "User Name"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:125
+msgid "Order:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:127
+msgid "Ascending"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:128
+msgid "Descending"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-comments.php:8
+msgctxt "widget name"
+msgid "MH Recent Comments"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-comments.php:11
+msgid ""
+"MH Recent Comments widget to display your recent comments including user "
+"avatars."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-comments.php:35
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-comments.php:61
+msgid "Recent Comments"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-comments.php:68
+msgid "Limit Comment Number:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-comments.php:73
+msgid "Skip Comments (Offset):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-pages.php:8
+msgctxt "widget name"
+msgid "MH Custom Pages"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-pages.php:11
+msgid "Display any of your pages with this widget."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-pages.php:83
+#: includes/widgets/mh-custom-posts.php:168
+#: includes/widgets/mh-posts-grid.php:144
+#: includes/widgets/mh-posts-large.php:134
+#: includes/widgets/mh-youtube-video.php:60
+msgid "Link Title to custom URL (optional):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-pages.php:87
+msgid "Filter Pages by ID (comma separated):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-pages.php:91
+msgid "Display Excerpt:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:11
+msgid "Display posts including thumbnail images."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:172
+#: includes/widgets/mh-posts-grid.php:148
+#: includes/widgets/mh-posts-large.php:138 includes/widgets/mh-slider.php:100
+msgid "Select a Category:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:174
+#: includes/widgets/mh-posts-grid.php:150
+#: includes/widgets/mh-posts-large.php:140 includes/widgets/mh-slider.php:102
+msgid "All"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:180
+#: includes/widgets/mh-posts-grid.php:156
+#: includes/widgets/mh-posts-large.php:146 includes/widgets/mh-slider.php:108
+msgid "Select a category to display posts from."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:183
+#: includes/widgets/mh-posts-grid.php:159
+#: includes/widgets/mh-posts-large.php:149 includes/widgets/mh-slider.php:111
+msgid "Multiple Categories Filter by ID:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:187
+#: includes/widgets/mh-posts-grid.php:163
+#: includes/widgets/mh-posts-large.php:153 includes/widgets/mh-slider.php:115
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:191
+#: includes/widgets/mh-posts-grid.php:167
+#: includes/widgets/mh-posts-large.php:157 includes/widgets/mh-slider.php:119
+msgid "Post Count (max. 50):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:195
+#: includes/widgets/mh-posts-grid.php:171
+#: includes/widgets/mh-posts-large.php:161 includes/widgets/mh-slider.php:123
+msgid "Skip Posts (max. 50):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:199
+#: includes/widgets/mh-posts-grid.php:175
+#: includes/widgets/mh-posts-large.php:165 includes/widgets/mh-slider.php:127
+msgid "Post Order:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:201
+#: includes/widgets/mh-posts-grid.php:177
+#: includes/widgets/mh-posts-large.php:167 includes/widgets/mh-slider.php:129
+msgid "Latest Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:202
+#: includes/widgets/mh-posts-grid.php:178
+#: includes/widgets/mh-posts-large.php:168 includes/widgets/mh-slider.php:130
+msgid "Random Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-custom-posts.php:203
+#: includes/widgets/mh-posts-grid.php:179
+#: includes/widgets/mh-posts-large.php:169 includes/widgets/mh-slider.php:131
+msgid "Popular Posts"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-facebook-page.php:8
+msgctxt "widget name"
+msgid "MH Facebook Page"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-facebook-page.php:11
+msgid "Widget to display your Facebook page on your website."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-facebook-page.php:16
+#: includes/widgets/mh-facebook-page.php:45
+msgid "Follow on Facebook"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-facebook-page.php:53
+msgid "Facebook Page URL:"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-facebook-page.php:57
+msgid "Width (min. 280px):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-facebook-page.php:61
+msgid "Height (min. 130px):"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-facebook-page.php:66
+msgid "Hide cover photo"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-facebook-page.php:70
+msgid "Show profile photos"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-facebook-page.php:74
+msgid "Show posts from FB page"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-posts-grid.php:8
+msgctxt "widget name"
+msgid "MH Posts Grid"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-posts-grid.php:11
+msgid "Display a grid of posts including thumbnail images."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-posts-large.php:8
+msgctxt "widget name"
+msgid "MH Posts Large"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-posts-large.php:11
+msgid "Display posts (large-sized) including thumbnail images."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-slider.php:11
+msgid "Display any of your posts in a responsive content slider."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-youtube-video.php:8
+msgctxt "widget name"
+msgid "MH YouTube Video"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-youtube-video.php:64
+msgid "Video ID:"
+msgstr ""
+
+# @ mh-joystick
+#: template-sitemap.php:12
+msgid "Recent Posts"
+msgstr ""
+
+# @ mh-joystick
+#: template-sitemap.php:22
+msgid "Pages"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:119 template-sitemap.php:35
+msgid "Categories"
+msgstr ""
+
+# @ mh-joystick
+#: template-sitemap.php:38
+msgid "No categories"
+msgstr ""
+
+# @ mh-joystick
+#: comments.php:11
+#, php-format
+msgid "Readers Comments (1)"
+msgid_plural "Readers Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mh-joystick
+#: comments.php:27
+#, php-format
+msgid "Trackbacks & Pingbacks (%s)"
+msgstr ""
+
+# @ mh-joystick
+#: comments.php:46
+msgid "Be the first to comment"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:109
+msgid "Home 1 - Main Column"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:110
+msgid "Home 2 - Sidebar"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:111
+msgid "Posts 1 - Advertisement (Top)"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:112
+msgid "Posts 2 - Advertisement (Bottom)"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-options.php:57
+msgid "Custom Excerpt More-Text"
+msgstr ""
+
+# @ mh-joystick
+#: admin/admin.php:7
+msgid "Welcome to MH Joystick"
+msgstr ""
+
+# @ mh-joystick
+#: footer.php:33
+#, php-format
+msgid "MH Joystick by %s"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:44
+msgid "Header Social Icons"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:108
+msgid "Header - Advertisement"
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:108
+msgid ""
+"Advertisement position located below the header on every page, suitable for "
+"a single text widget."
+msgstr ""
+
+# @ mh-joystick
+#: functions.php:112
+msgid ""
+"Advertisement position located below the post content, suitable for a single "
+"text widget."
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-custom-functions.php:86
+msgid "Topics"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:6
+msgid "Arabic"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:11
+msgid "Hebrew"
+msgstr ""
+
+# @ mh-joystick
+#: includes/mh-google-webfonts.php:14
+msgid "Vietnamese"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-authors.php:8
+msgctxt "widget name"
+msgid "MH Authors"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-youtube-video.php:11
+msgid "Widget to display a YouTube Video."
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-youtube-video.php:66
+msgid ""
+"Enter the YouTube video ID - also known as the watch code (e.g. AvOTBFM_3RQ)"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-youtube-video.php:70
+msgid "Enable Autoplay"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-youtube-video.php:74
+msgid "Display Video Title / Information"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-youtube-video.php:78
+msgid "Display Player Controls"
+msgstr ""
+
+# @ mh-joystick
+#: includes/widgets/mh-youtube-video.php:82
+msgid "Recommend Related Videos"
+msgstr ""

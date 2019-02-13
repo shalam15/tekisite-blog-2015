@@ -1,0 +1,1039 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Elegance v1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-03-29 15:32+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh-elegance
+#: comments.php:9
+#, php-format
+msgid "1 Comment on %2$s"
+msgid_plural "%1$s Comments on %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mh-elegance
+#: comments.php:16 includes/mh-custom-functions.php:128
+#: includes/mh-custom-functions.php:145
+msgid "&laquo;"
+msgstr ""
+
+# @ mh-elegance
+#: comments.php:16 includes/mh-custom-functions.php:129
+#: includes/mh-custom-functions.php:145
+msgid "&raquo;"
+msgstr ""
+
+# @ mh-elegance
+#: comments.php:22
+#, php-format
+msgid "%s Trackbacks & Pingbacks"
+msgstr ""
+
+# @ mh-elegance
+#: comments.php:30
+msgid "Comments are closed."
+msgstr ""
+
+# @ mh-elegance
+#: comments.php:35
+msgid "Leave a comment"
+msgstr ""
+
+# @ mh-elegance
+#: comments.php:36
+msgid "Your email address will not be published."
+msgstr ""
+
+# @ mh-elegance
+#: comments.php:38
+msgid "Comment"
+msgstr ""
+
+# @ mh-elegance
+#: content-none.php:4
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+# @ mh-elegance
+#: content-none.php:6
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ mh-elegance
+#: content-portfolio.php:9 includes/mh-custom-functions.php:62
+#, php-format
+msgctxt "post date"
+msgid "Date: %s"
+msgstr ""
+
+# @ mh-elegance
+#: content-portfolio.php:10
+msgid "Project Type: "
+msgstr ""
+
+# @ mh-elegance
+#: content-portfolio.php:18 content-single.php:17
+msgid "Tagged as:"
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:39
+msgid "Main Navigation"
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:40
+msgid "Footer Navigation"
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:41
+msgid "Social Icons in Footer"
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:101 includes/mh-options.php:60
+msgid "Sidebar"
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:101
+msgid "Sidebar on Posts/Pages."
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:102 functions.php:103
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d"
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:102
+msgid "Widget Area on Front Page above Content."
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:103
+msgid "Widget Area on Front Page below Content."
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:107
+msgid "Contact"
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:107
+msgid "Sidebar on Contact Page Template."
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:18
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:30 page-sitemap.php:23
+msgid "Archives"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:36
+msgid "Page not found (404)"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:38
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:65
+#, php-format
+msgctxt "post author"
+msgid "Author: %s"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:68
+msgid "Comments:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:68
+#, php-format
+msgctxt "comments number"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:178
+msgid "Back to post"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:180
+msgid "Previous image"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:183
+msgid "Previous post"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:190
+msgid "Next image"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:192
+msgid "Next post"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:212
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:216
+msgid "(Edit)"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:219
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:236
+msgid "Name "
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:237
+msgid "Email "
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:238
+msgid "Website"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-header.php:9
+msgid "Custom Header Options"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-header.php:20
+msgid "Header Title"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-header.php:25
+msgid "Header Description"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-header.php:30
+msgid "Header Button Text"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-header.php:35
+msgid "Header Button URL"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-header.php:40
+msgid "Custom Color of Header Text"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-header.php:46
+msgid "Use Featured Image as Header Background"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:65 includes/mh-options.php:19
+msgid "Theme Options"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:23
+msgid "General"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:25
+msgid "Posts/Pages"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:26
+msgid "Custom CSS"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:33 includes/mh-options.php:129
+msgid "Read More"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:53
+msgid "Footer Logo"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:54
+msgid "Custom Excerpt Length in Words"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:55
+msgid "Custom Excerpt More-Text"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:56
+msgid "Copyright Text"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:60 includes/mh-options.php:102
+msgid "Right Sidebar"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:60 includes/mh-options.php:103
+msgid "Left Sidebar"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:106
+msgid "Change default Font Size (px)"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:107
+msgid "Google Webfonts"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:107 includes/mh-options.php:58
+#: includes/mh-options.php:59 includes/mh-options.php:62
+#: includes/mh-options.php:63 includes/mh-options.php:100
+msgid "Enable"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:107 includes/mh-options.php:58
+#: includes/mh-options.php:59 includes/mh-options.php:62
+#: includes/mh-options.php:63 includes/mh-options.php:101
+msgid "Disable"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:108
+msgid "Google Webfonts Characters"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:12
+msgid "Latin"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:13
+msgid "Latin Extended"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:9
+msgid "Greek"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:10
+msgid "Greek Extended"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:7
+msgid "Cyrillic"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:8
+msgid "Cyrillic Extended"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:109
+msgid "Google Webfont for Headings"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:110
+msgid "Google Webfont for Body Text"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:111
+msgid "Imported Google Font Styles"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:62
+msgid "Featured Image on Posts"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:63
+msgid "Post/Attachment Navigation"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:64
+msgid "Disable Post Meta Data"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:65
+msgid "Disable Date"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:66
+msgid "Disable Author"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:67
+msgid "Disable Categories"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:68
+msgid "Disable Comments"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:70
+msgid "Add your custom CSS code here:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:11
+msgid ""
+"MH Authors widget to display a list of authors including the number of "
+"published posts."
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:46 includes/widgets/mh-authors.php:52
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:56
+#, php-format
+msgctxt "author post count"
+msgid "published %d articles"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:62
+msgid "No authors found"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:99
+msgid "Authors"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:102 includes/widgets/mh-comments.php:69
+#: includes/widgets/mh-facebook-page.php:49
+#: includes/widgets/mh-news-widget.php:125 includes/widgets/mh-youtube.php:56
+msgid "Title:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:106
+msgid "Limit Author Number:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:110
+msgid "Skip Authors (Offset):"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:114
+msgid "User Role:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:116
+msgid "All Users"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:117
+msgid "Administrator"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:118
+msgid "Editor"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:119
+msgid "Author"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:120
+msgid "Contributor"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:121
+msgid "Subscriber"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:125
+msgid "Order Authors by:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:127
+msgid "Number of Posts"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:128
+msgid "User Name"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:132
+msgid "Order:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:134
+msgid "Ascending"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:135
+msgid "Descending"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:139 includes/widgets/mh-comments.php:81
+msgid "Avatar Size in px:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:145 includes/widgets/mh-comments.php:87
+msgid "No Avatars"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-comments.php:11
+msgid ""
+"MH Recent Comments widget to display your recent comments including user "
+"avatars."
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-comments.php:37
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-comments.php:66
+msgid "Recent Comments"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-comments.php:73
+msgid "Limit Comment Number:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-comments.php:77
+msgid "Skip Comments (Offset):"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-facebook-page.php:16
+#: includes/widgets/mh-facebook-page.php:45
+msgid "Follow on Facebook"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-facebook-page.php:53
+msgid "Facebook Page URL:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:11
+msgid "Widget to display news from blog."
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:133
+msgid "Select a Category:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:135
+msgid "All"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:144
+msgid "Multiple Categories Filter by ID:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:148
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:156
+msgid "Post Order:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:158
+msgid "Latest Posts"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:159
+msgid "Random Posts"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:160
+msgid "Popular Posts"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:129 includes/widgets/mh-youtube.php:60
+msgid "Link Title to custom URL (optional):"
+msgstr ""
+
+# @ mh-elegance
+#: page-sitemap.php:8
+msgid "Recent Articles"
+msgstr ""
+
+# @ mh-elegance
+#: page-sitemap.php:16
+msgid "Pages"
+msgstr ""
+
+# @ mh-elegance
+#: page-sitemap.php:29
+msgid "Categories"
+msgstr ""
+
+# @ mh-elegance
+#: page-sitemap.php:31
+msgid "No categories"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:71
+#, php-format
+msgid "Categories: %s"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:24
+msgid "Layout"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:93
+msgid "Typography"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:27
+msgid "Tracking Code"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:71
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:7
+msgid "Welcome to MH Elegance"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:7
+msgid "Theme Info"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:17
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:25
+msgid "Important Links:"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:27
+msgid "Theme Info Page"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:30
+msgid "Support Center"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:33
+msgid "Facebook"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:36
+msgid "Twitter"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:39
+msgid "YouTube"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:46
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:52
+msgid "Theme Documentation"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:55
+#, php-format
+msgid ""
+"Need support to setup and configure %s? Please have a look at the "
+"instructions in the theme documentation or register at our support forums "
+"when you click on \"Support\" in your MH Themes account."
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:59
+msgid "Visit Documentation"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:68
+#, php-format
+msgid ""
+"%s WordPress theme supports the Theme Customizer for all theme settings. "
+"Click \"Customize Theme\" to open the Customizer now."
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:72
+msgid "Customize Theme"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:78
+msgid "Upgrade to MH Themes Bundle"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:81
+msgid ""
+"Do you want to have access to all Premium WordPress Themes by MH Themes "
+"including support and lifetime updates? You can upgrade to the MH Themes "
+"Bundle right away when you click on \"Shop\" in your MH Themes account."
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:85
+msgid "Login to MH Themes account"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:91
+msgid "Theme Screenshot"
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:97
+#, php-format
+msgid "%1s WordPress theme is proudly brought to you by %2s."
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:111
+#, php-format
+msgid ""
+"Thanks for using %1s by MH Themes. To learn more about this theme, please "
+"%1s."
+msgstr ""
+
+# @ mh-elegance
+#: admin/admin.php:111
+msgid "click here"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:300
+msgid "Share on Facebook"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:300 includes/mh-custom-functions.php:309
+msgid "SHARE"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:303
+msgid "Tweet This Post"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:303
+msgid "TWEET"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:306
+msgid "Pin This Post"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:306
+msgid "PIN"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-functions.php:309
+msgid "Share on Google+"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:58
+msgid "Sharing Buttons"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-options.php:59
+msgid "Author Box"
+msgstr ""
+
+# @ mh-elegance
+#: template-authorbox.php:12
+#, php-format
+msgid "About %s"
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:104 functions.php:105 functions.php:106
+#, php-format
+msgctxt "widget area name"
+msgid "Footer %d"
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:104
+msgid "First column widget area in the footer."
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:105
+msgid "Second column widget area in the footer."
+msgstr ""
+
+# @ mh-elegance
+#: functions.php:106
+msgid "Third column widget area in the footer."
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-custom-colors.php:15 includes/mh-custom-colors.php:16
+#: includes/mh-custom-colors.php:17
+#, php-format
+msgctxt "options panel"
+msgid "Theme Color %d"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-facebook-page.php:8
+msgctxt "widget name"
+msgid "MH Facebook Page"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-facebook-page.php:11
+msgid "Widget to display your Facebook page on your website."
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-facebook-page.php:57
+msgid "Width (min. 280px):"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-facebook-page.php:61
+msgid "Height (min. 130px):"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-facebook-page.php:66
+msgid "Hide cover photo"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-facebook-page.php:70
+msgid "Show profile photos"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-facebook-page.php:74
+msgid "Show posts from FB page"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-youtube.php:11
+msgid "Widget to display a YouTube Video."
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:6
+msgid "Arabic"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:11
+msgid "Hebrew"
+msgstr ""
+
+# @ mh-elegance
+#: includes/mh-google-webfonts.php:14
+msgid "Vietnamese"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-authors.php:8
+msgctxt "widget name"
+msgid "MH Authors"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-comments.php:8
+msgctxt "widget name"
+msgid "MH Recent Comments"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:8
+msgctxt "widget name"
+msgid "MH News (Front Page)"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:141
+msgid "Select a category to display posts from."
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-news-widget.php:152
+msgid "Skip Posts (max. 50):"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-youtube.php:8
+msgctxt "widget name"
+msgid "MH YouTube Video"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-youtube.php:64
+msgid "Video ID:"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-youtube.php:66
+msgid ""
+"Enter the YouTube video ID - also known as the watch code, example: "
+"AvOTBFM_3RQ)"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-youtube.php:70
+msgid "Enable Autoplay"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-youtube.php:74
+msgid "Display Video Title / Information"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-youtube.php:78
+msgid "Display Player Controls"
+msgstr ""
+
+# @ mh-elegance
+#: includes/widgets/mh-youtube.php:82
+msgid "Recommend Related Videos"
+msgstr ""
